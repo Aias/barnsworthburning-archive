@@ -27,7 +27,7 @@
 		"@sveltejs/kit": "^2.5.18",
 		"@sveltejs/vite-plugin-svelte": "^3.1.1",
 		"svelte": "^4.2.18",
-		"vite": "^5.3.3"
+		"vite": "^5.3.4"
 	},
 	"dependencies": {
 		"airtable": "^0.12.2",
